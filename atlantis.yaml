@@ -195,8 +195,8 @@ projects:
     apply_requirements: []
     workflow: id
     
-  - name: eks/tmcd_apnortheast2/tmcdapne2-nhwy
-    dir: terraform/eks/tmcd_apnortheast2/tmcdapne2-nhwy
+  - name: eks/eksd_apnortheast2/eksdapne2-aylw
+    dir: terraform/eks/eksd_apnortheast2/eksdapne2-aylw
     workspace: default
     terraform_version: 1.7.0
     autoplan:
